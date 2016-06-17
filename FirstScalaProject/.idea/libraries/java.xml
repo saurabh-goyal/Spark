@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/Cellar/apache-spark/1.6.1/libexec/examples/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
